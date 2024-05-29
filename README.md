@@ -1,4 +1,4 @@
-# hrv-android
+# HeartRate_Android
 
 Android application to measure **Heart Rate Variability (HRV) using device's camera and Image Processing**
 
